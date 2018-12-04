@@ -4,7 +4,7 @@ In a number of previous projects, you have written functions to use as Event Li
 
 **First**, take a look at the [MDN EventListener documentation](https://developer.mozilla.org/en-US/docs/Web/API/EventListener) for a small example.
 
-**Next**, fork a copy of the repository at [https://github.com/KenzieAcademy/object\_handle\_event](https://github.com/KenzieAcademy/object_handle_event)
+**Next**, fork a copy of the repository at [https://gitlab.com/kenzie-academy/se/fe/code-quality/a_handle-event](https://gitlab.com/kenzie-academy/se/fe/code-quality/a_handle-event)
 
 The code implemented so far will show 5 seedlings on the screen.
 
