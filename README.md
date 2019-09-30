@@ -12,4 +12,4 @@ Follow the instructions in the TODO comment within the js file. They will direct
 
 Here is an example of how the page should behave after you have completed the handleEvent method:
 
-![flower_garden_sml.gif](https://my.kenzie.academy/courses/20/files/1460/preview)
+![flower_garden_sml.gif](https://s3.us-east-2.amazonaws.com/images.kenzie.academy/frontend-se/flower_garden_sml.gif)
