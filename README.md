@@ -1,15 +1,15 @@
-**Note:** You should have already finished [Lesson: Object Oriented Programming](https://my.kenzie.academy/courses/20/assignments/1617 "Lesson: Object Oriented Programming") before beginning this activity.
+**Observação:** Você deve completar a Aula: Programação Orientada a Objetos antes de começar esta atividade.
 
-In a number of previous projects, you have written functions to use as Event Listeners for "click" and "keypress" events. Today you will learn how to use an Object as an Event Listener by implementing the handleEvent method.
+Em alguns projetos anteriores, você escreveu funções que serviam de Event Listeners "click" e "keypress". Hoje você irá aprender como usar um Objeto como um Event Listener ao implementar o método handleEvent.
 
-**First**, take a look at the [MDN EventListener documentation](https://developer.mozilla.org/en-US/docs/Web/API/EventListener) for a small example.
+**Primeiro**, confira a [documentação sobre EventListener da MDN](https://developer.mozilla.org/pt-BR/docs/Web/API/EventListener) para ver um pequeno exemplo.
 
-**Next**, fork a copy of the repository at [https://gitlab.com/kenzie-academy/se/fe/code-quality/a_handle-event](https://gitlab.com/kenzie-academy/se/fe/code-quality/a_handle-event)
+**Depois**, faça o fork do repositório [https://gitlab.com/kenzie-academy-brasil/se/fe/code-quality/a_handle-event](https://gitlab.com/kenzie-academy-brasil/se/fe/code-quality/a_handle-event)
 
-The code implemented so far will show 5 seedlings on the screen.
+O código implementado até agora irá exibir 5 mudinhas de planta na tela.
 
-Follow the instructions in the TODO comment within the js file. They will direct you to implement a handleEvent method inside the ClickToAdvance object. If you complete this, you will be able to click on the seedlings to make them grow.
+Siga as instruções do comentário "TODO" que está no arquivo js. Elas irão direcioná-lo na implementação do método handleEvent dentro do objeto ClickToAdvance. Se completar isso, você será capaz de clicar nas mudas e fazê-las crescer.
 
-Here is an example of how the page should behave after you have completed the handleEvent method:
+Aqui está um exemplo de como a página deve se comportar depois que você completar o método handleEvent:
 
 ![flower_garden_sml.gif](https://s3.us-east-2.amazonaws.com/images.kenzie.academy/frontend-se/flower_garden_sml.gif)
