@@ -3,7 +3,7 @@
 Em alguns projetos anteriores, você escreveu funções que serviam de Event Listeners "click" e "keypress". Hoje você irá aprender como usar um Objeto como um Event Listener ao implementar o método handleEvent.
 
 **Primeiro**, confira a [documentação sobre EventListener da MDN](https://developer.mozilla.org/pt-BR/docs/Web/API/EventListener) para ver um pequeno exemplo.
-
+*   Assista: [handleEvent method](https://youtu.be/JKrWjbCPSeE) em inglês.
 **Depois**, faça o fork do repositório [https://gitlab.com/kenzie-academy-brasil/se/fe/code-quality/a_handle-event](https://gitlab.com/kenzie-academy-brasil/se/fe/code-quality/a_handle-event)
 
 O código implementado até agora irá exibir 5 mudinhas de planta na tela.
